@@ -3,13 +3,15 @@ MapReduce in mincemeatpy
 
 CS6065 Intro to Cloud Computing Homework 3
 
-*Cloned from University of Cincinnati's git site, github.uc.edu*
+*Cloned from University of Cincinnati's git site, https://github.uc.edu/*
 
 *Assignment Outline: https://docs.google.com/document/d/1oBZTfU84O6r9HVW_ZbtXiXFEVvRTCrmGdvbEumTio6E/*
 
 #### Usage
 *Start client with...*
+
 *Linux:* `./mincemeat.py -l -p changeme`
+
 *Windows:* `python mincemeat.py -l -p changeme`
 ```
 python mathstats.py small.txt
